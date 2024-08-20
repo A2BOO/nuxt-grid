@@ -1,4 +1,5 @@
 <template>
+  <div>Triple Box</div>
   <div class="layout">
     <div class="block1">
       <div class="child1">Box 1</div>
